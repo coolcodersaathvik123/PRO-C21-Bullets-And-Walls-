@@ -37,7 +37,7 @@ function setup() {
   damage=0.5*weight*speed*speed/(thickness*thickness*thickness);
   
   //Restart sprite
-  restart=createSprite(800,200,10,10);
+  restart=createSprite(800,200,70,30);
   
 
   //initial value of rejected cars;
